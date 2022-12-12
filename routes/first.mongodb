@@ -1,0 +1,7 @@
+
+use('youtube')
+db.users.insertOne({
+    name:'Mahes Kariya'
+
+})
+db.users.find();
